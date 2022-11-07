@@ -4,3 +4,19 @@ Repositório com o código produzido durante o minicurso de "Criação de uma ap
 
 
 
+## 🚀 Começando
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+## 📋 Pré-requisitos
+<!--ts-->
+ * Java 8
+ * Spring Tool Suite 4/Eclipse IDE
+ * Spring Initializr - https://start.spring.io/
+ * Postman
+<!--te-->
+
+## 🔧 Instalação
+* Instale o Spring Tool Suite 4 no Eclipse IDE no Endereço:
+https://spring.io/tools e baixe o  **Spring Tools 4 for Eclipse**  for Windows.
+
+* Faça download 
